@@ -560,7 +560,7 @@ body {
 }
 
 .carta h2 {
-  font-family: cursive;
+  font-family: 'Pacifico', cursive;
   font-size: 2rem;
   color: var(--primary); 
   margin-bottom: 16px;
@@ -574,6 +574,7 @@ body {
 }
 
 .carta .firma {
+  font-family: 'Pacifico', cursive;
   margin-top: 2.1rem;
   font-style: italic;
   text-align: right;
