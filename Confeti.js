@@ -38,7 +38,7 @@ const coloresConfeti = [
 // 2. Crear Confeti
 //
 function crearConfeti() {
-  const cantidad = 100;
+  const cantidad = 50; // Número de Confetis
   for (let i = 0; i < cantidad; i++) {
     confetis.push({
       x: Math.random() * ancho, // Posición Horizontal Aleatoria

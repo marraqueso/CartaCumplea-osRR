@@ -33,7 +33,7 @@ const coloresConfeti2 = [
 // ];
 
 function crearConfeti2() {
-  const cantidad = 100;
+  const cantidad = 30;
   for (let i = 0; i < cantidad; i++) {
     confetis2.push({
       x: Math.random() * ancho2,
